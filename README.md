@@ -10,3 +10,9 @@
 ### v3.0 – Selección de ruta personalizada
 - Opción para elegir la ruta donde se realizará la organización de los ficheros.
 - Mayor flexibilidad y control para el usuario.
+
+### v4.0 – Control y filtrado de movimientos
+- Registro de la fecha en la que un fichero ha sido movido.
+- Identificación del usuario que realizó el movimiento.
+- Filtrado de ficheros ordenados por fechas a la hora de guardarlo en subcarpetas.
+- Refactorización de código
