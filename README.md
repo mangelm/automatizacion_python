@@ -16,3 +16,7 @@
 - Identificación del usuario que realizó el movimiento.
 - Filtrado de ficheros ordenados por fechas a la hora de guardarlo en subcarpetas.
 - Refactorización de código
+
+### v5.0 – Monitorizacion de la carpeta elegida
+- Monitorizacion de la carpeta deseada para ordenar si detecta nuevos ficheros
+- Control de excepciones de permisos y ficheros grandes
